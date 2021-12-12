@@ -1,0 +1,18 @@
+.slot-machine {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+}
+
+.slot {
+  font-size: 60px;
+}
+
+.slot:first-child {
+}
+
+.slot:nth-child(even) {
+}
+
+.slot:last-child() {
+}
